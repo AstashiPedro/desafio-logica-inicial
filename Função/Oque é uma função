@@ -1,0 +1,9 @@
+funçoes e quando você for fazer algo por isso vem o nome do function function significa função fazer por exemplo
+quando você for fazer uma torrada uma ação: fazer uma torrada, quando você for fazer uma torrada você precisa de um
+pão e depois que a ação tiver pronta: sai um pão fresco
+então vamos lá com explicar oque está acontecendo: 1 temos o input a entrada do usuario pra fazer a ação colcoar o pão
+depois temos: 2 o agente transformador que tá de fazer a função torrar o pão e toda vez q eu mandar essa torradeira
+torrar o pão ela sempre vai fazer a msm coisa torrar o pão
+vamos lá 1: entrada que é o pão
+2: agente executador de sempre fazer uma ação fazer essa ação
+3: saida que é a torrada feita
