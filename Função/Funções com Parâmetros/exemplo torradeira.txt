@@ -3,4 +3,4 @@ torradeira no exemplo js o () sempre tem que colocar ja {} e tudo que a função
 do () colocamos uma variavel pra fazer a função quando coloca a variavel estamos concatenando com a função torrar e passar como parametro
 o texto quando exemplo de uma caixa abre a caixa e coloca la dentro e tudo que tiver dentro do () ele vai guardar na variavel chamada pao
 e vai ser executada como o console.log primeiro 1 depois o outro concatenando o nome da variavel com a função torrar o parametro () ele
-serve para quando queremos que a mesma função tenha resultados diferentes
+serve para quando queremos que a mesma função tenha resultados diferentes.

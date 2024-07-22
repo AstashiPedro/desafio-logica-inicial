@@ -11,6 +11,7 @@ function potencia(){
 
 //agora para chamar a função dentro da função e possivel dessa meneira colcando a "funcao"()
 
+/*
 geladeira()
 
 function geladeira (){
@@ -21,3 +22,4 @@ function potencia(){
     console.log("Aumentando potencia....")
     console.log("Potencia aumentada gelando mais rapido")
 }
+*/
