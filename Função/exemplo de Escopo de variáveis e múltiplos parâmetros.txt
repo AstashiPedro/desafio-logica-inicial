@@ -1,0 +1,7 @@
+quando coloca a variavel pao como console.log(pao) vai dar erro, ReferenceError: pao is not defined, quando der algum erro em seu projeto
+sempre procure a ReferenceError, então voltando ao assunto deu erro pois a variavel pao que esta sendo usada como parametro dessa função
+pois ela so existem dentro do contexto da função dentro das chaves {} fora disso ela não existe e quando coloca a variavel fora do escopo
+{} e dar um console.log(batata) dentro do escopo vai dar esse erro se colocar a variavel por baixo das funções:
+ReferenceError: Cannot access 'batata' before initialization porque a variavel let existe apenas naquele escopo ja a variavel var e global
+so que não é recomendado usar var batata, batata = "Batata Frita" pois essa variavel pode ta vazando em outros lugares isso pode causar
+alguns problemas no futuro e tem a outra forma de colocar um nome ou colocar a batata tbm
